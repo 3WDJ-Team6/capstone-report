@@ -8,9 +8,11 @@
 
 ### Team Member : 김은광 박형진 곽민수 김은채 한혜은
 
+![image](https://user-images.githubusercontent.com/33077726/54029744-d6012f80-41ec-11e9-815f-c1fca0fc4839.png)
+
 ---
 
-## List
+## 목록
 
 _본 회의록의 폴더는 다음과 같은 구조로 이루어져 있습니다._
 
