@@ -1,4 +1,4 @@
-# 캡스톤 보고서
+# Capstone report repository
 
 ---
 
@@ -8,9 +8,7 @@
 
 ### Team Member : 김은광 박형진 곽민수 김은채 한혜은
 
-![Members](https://user-images.githubusercontent.com/33077726/54029744-d6012f80-41ec-11e9-815f-c1fca0fc4839.png){: width="1024" height="786"}
-
----
+<img src="https://user-images.githubusercontent.com/33077726/54029744-d6012f80-41ec-11e9-815f-c1fca0fc4839.png" width="1024" height="786">
 
 ## logo
 
