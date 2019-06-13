@@ -8,7 +8,7 @@
 
 ### Team Member : 김은광 박형진 곽민수 김은채 한혜은
 
-<img src="https://user-images.githubusercontent.com/33077726/54029744-d6012f80-41ec-11e9-815f-c1fca0fc4839.png" width="1024" height="786">
+![members](https://user-images.githubusercontent.com/33077726/59427188-01f80680-8e15-11e9-87c3-a851837e7b30.png)
 
 ## logo
 
